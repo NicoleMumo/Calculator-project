@@ -27,4 +27,4 @@ Notes:
 - The `out/` directory contains build artifacts and is ignored by git (`.gitignore` is provided).
 - If you run the app in a headless environment (Codespaces, WSL without X, SSH without X forwarding), `CalculatorApp` will automatically use the console mode. Run locally to see the GUI.
 
-If you want, I can create platform-specific launchers or a runnable native package.
+
