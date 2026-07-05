@@ -1,2 +1,2 @@
-# Calculator-project
-OOP project by
+
+Simple OOP Java Calculator
